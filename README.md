@@ -1,11 +1,5 @@
 # 🎬 Netflix Streaming Platform — Microservices
 
-> ⚠️ **Recommended:** Watch the full video explanation before running the code — it will make much more sense!
->
-> ▶️ **Watch here:** [How Netflix Streams Video to 200 Million Users](https://youtube.com/@YeshendraDhaker)
->
-> ⭐ If this helped you, please **star this repo** and **subscribe to the channel!**
-
 ---
 
 ## 📌 What We Built
@@ -332,19 +326,8 @@ GET    /api/v1/stream/{movieId}/playlist  → Get signed playlist
 
 ---
 
-## 📚 Full Microservices Series
-
-| Project | Video | Source Code |
-|---|---|---|
-| Uber Clone | [Watch](https://youtu.be/Cdx4DF9N8d8) | [GitHub](https://github.com/YeshendraDhaker/Uber-App) |
-| Netflix Clone | [Watch](https://youtube.com/@YeshendraDhaker) | This repo |
-| Banking System | Coming Soon | Coming Soon |
-
----
-
 ## 🤝 Connect
 
-- **YouTube:** [YeshendraDhaker](https://youtube.com/@YeshendraDhaker)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **GitHub:** (https://github.com/Prabhat-coder77)
 
-> ⭐ Don't forget to **star this repo** and **subscribe** if this helped you!
+> ⭐ Don't forget to **star this repo** and **Follow** if this helped you!
