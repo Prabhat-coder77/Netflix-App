@@ -1,4 +1,4 @@
-# 🎬 Netflix Streaming Platform — Microservices
+# 🎬 Netflix Streaming Platform — Microservices 
 
 ---
 
